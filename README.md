@@ -6,3 +6,6 @@
 2. Run `setup.sh` to import the proper dependencies.
 3. `go build -o bin/Arbiter src/github.com/bitfight/bitfight-arbiter/bitfight-arbiter.go'
 4. Run the server at `bin/Arbiter`.
+
+# Thanks
+- https://github.com/op/go-logging for writing some awesome logging software
